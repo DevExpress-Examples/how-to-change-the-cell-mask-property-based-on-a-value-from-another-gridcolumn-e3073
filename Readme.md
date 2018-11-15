@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/2583 - CellMaskBinding/MainPage.xaml) (VB: [MainPage.xaml](./VB/2583 - CellMaskBinding/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/2583 - CellMaskBinding/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/2583 - CellMaskBinding/MainPage.xaml))
+<!-- default file list end -->
 # How to change the cell Mask property based on a value from another GridColumn
 
 
